@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "username": "oliveira.beleza",
+      "password": "123123",
+      "id": 2
+    },
+    {
+      "username": "pedro.oliveira",
+      "password": "123123",
+      "id": 3
+    },
+    {
+      "username": "pedro.henrique",
+      "password": "123123",
+      "id": 4
+    },
+    {
+      "username": "pedro.maiaaa",
+      "password": "123123",
+      "id": 5
+    },
+    {
+      "username": "hygor.divino",
+      "password": "123123",
+      "id": 6
+    }
+  ]
+}
